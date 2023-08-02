@@ -11,7 +11,7 @@ I am proud to be part of ALX Software Engineering, where I am honing my software
 I am open to collaboration and always eager to work on interesting projects. If you have an exciting opportunity or a cool project in mind, feel free to reach out to me.
 
 📫 How to Reach Me
-LinkedIn: Dev Iskalo
+LinkedIn: Dev Iskalo https://www.linkedin.com/in/dev-iskalo/
 Email: deviskalo2000@gmail.com
 Feel free to connect with me, and let's explore the wonderful world of coding together!
 
